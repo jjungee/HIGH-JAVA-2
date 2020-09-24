@@ -1,0 +1,8 @@
+.metadata/
+Servers/.project
+Servers/
+servletTest/.classpath
+servletTest/.project
+servletTest/.settings/
+servletTest/build/
+RemoteSystemsTempFiles/.project
