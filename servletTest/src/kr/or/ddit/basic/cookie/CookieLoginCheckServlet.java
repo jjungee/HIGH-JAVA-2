@@ -1,4 +1,4 @@
-package kr.or.ddit.basic;
+package kr.or.ddit.basic.cookie;
 
 import java.io.IOException;
 
@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
  * Servlet implementation class LoginCheckServlet
  */
 @WebServlet("/cookieLoginCheckServlet.do")
-public class cookieLoginCheckServlet extends HttpServlet {
+public class CookieLoginCheckServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
